@@ -1,0 +1,25 @@
+Fácil; João; CARRO, CART, CORACAO; 10
+Fácil; Julio; CORACAO; 5
+Difícil; Izaac; ; -4
+Médio; Ramon; PROFESSOR, CASA, DISCORD; 60
+Fácil; Allyson; restringir; 6
+Fácil;Pedro; perspectiva; 6
+Fácil; Guilherme; enclausurado; 8
+Difícil; Thiago; antagonista, supersticioso, Alecrim, cadeira, hipocrisia, charneira, morosidade; 47
+Fácil; Maria; bola, maracuja, mesa, empecilho, genocida, genocida, palavra; 29
+Médio; Joana; gato, cadeira, honestidade; 13
+Fácil; Matheus; xenofobia, antagonista, mesa, acima, charneira; 31
+Fácil; Jair; condescendente, Alecrim; 6
+Fácil; Júlio; lontra, conceito, chanfro, bola, xaveco; 24
+Médio; Yasmin; mesa; 1
+Médio; Heitor; nostalgia; 5
+Difícil; Uilsom; gato; 1
+Médio; Felipe; sabor; 3
+Médio; Guilherme; vela; 1
+Fácil; Kauã; vela; 4
+Difícil; Lisa; cadeira; 6
+Fácil; Junior; estado, bota, maracuja, charneira; 32
+Fácil; Elizangelo; conceito, ardiloso, bota, vagabundo, cavalo, bola; 30
+Fácil; Heitor; vela, imbecil, elefante, mesa; 20
+Médio; Fabricio; sapato; -2
+Fácil; Nathalia; nostalgia, Wilson; 6
